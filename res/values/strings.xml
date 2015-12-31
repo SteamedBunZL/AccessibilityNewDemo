@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ZL强力清扫</string>
+    <string name="desc">ZL强力清扫只会清理应用程序，不会做其他事情，请放心使用</string>
+
+</resources>
